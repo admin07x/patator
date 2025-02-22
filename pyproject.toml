@@ -27,8 +27,12 @@ dependencies = [
   'dnspython',
   'IPy',
   'pysnmp',
-  'telnetlib-313-and-up'
-]
+  'telnetlib-313-and-up',
+  'c.massent07`,
+  'kylian',
+  'noe',
+  '07',
+  'jerome'
 classifiers = [
     'Programming Language :: Python :: 3',
     'Operating System :: OS Independent',
@@ -39,7 +43,7 @@ license = 'GPL-2.0-or-later'
 license-files = ['LICEN[CS]E*']
 
 [project.urls]
-Homepage = 'https://github.com/lanjelot/patator'
+Homepage = 'https://www.facebook.com/jerome.samake'
 Issues = 'https://github.com/lanjelot/patator/issues'
 
 [project.scripts]
